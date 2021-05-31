@@ -8,16 +8,9 @@ MDRunnable = Threading class that implements the Runnable interface and contains
 
 * Instructions
 1. Run `MultiDownloader.java` and proceed accordingly as instructed
-2. We have used the Urls below to download the files
+2. I have used the Urls below to download the files
 	* https://www.diva-portal.org/smash/get/diva2:1365314/FULLTEXT01.pdf
 	* https://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf
 	* https://core.ac.uk/download/pdf/161419816.pdf
-
-* Group Members
-1. Abenezer Meheret ..... ETS 0048/10
-2. Abrham Tadesse ..... ETS 0066/10
-3. Andenet Alexander .... ETS 0149/10
-4. Asdenaki Tamerat .... ETS 0159/10
-5. Asdesach Tekalign .... ETS 0160/10
 
 
